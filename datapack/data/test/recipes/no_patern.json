@@ -1,0 +1,15 @@
+{
+    "comment" : "ceci est un test de datapack minecraft en 1.17",
+    "type" : "minecraft:crafting_shapeless",
+
+    "ingredients" : [
+        {"item" : "minecraft_dirt"},
+        {"item" :"minecraft_grass"}
+    ],
+
+    "result" : {
+        "count" : 1,
+        "item" : "minecraft:grass_block"
+    }
+
+}
